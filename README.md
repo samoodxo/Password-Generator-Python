@@ -1,10 +1,19 @@
-This is a Password Generator that involves the use of the Custom Tkinter Module and the Use without it,
+## Password Generator
 
-GUI BASED PROGRAM
-Step 1: Open the program
-Step 2: Click the button inside the program
-Step 3: You will be prompted with as many random passwords as you click
+This is a Python-based Password Generator that offers both GUI-based and non-GUI-based functionalities. It utilizes the Custom Tkinter Module for the GUI version and can be run without it as well.
+
+### GUI Version
+#### Usage:
+1. Open the program.
+2. Click the button inside the program.
+3. You will be prompted with as many random passwords as you click.
 
 
-NON-GUI BASED PROGRAM
-Step 1: Open in IDE and Run
+
+![msedge_5nSBkCpyrx](https://github.com/samoodxo/Password-Generator-Python/assets/149648716/8a6a3ede-d047-402b-852e-50ada99a493a)
+
+
+### Non-GUI Version
+#### Usage:
+1. Open in an IDE.
+2. Run the program.
